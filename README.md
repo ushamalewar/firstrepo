@@ -1,4 +1,3 @@
 # firstrepo
-hello
 newfile
 
